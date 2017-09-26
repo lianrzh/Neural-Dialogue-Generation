@@ -1,4 +1,4 @@
-#Neural Dialogue Generation
+# Neural Dialogue Generation
 
 This project contains the code or part of the code for the dialogue generation part in the following papers:
 * [1] J.Li, M.Galley, C.Brockett, J.Gao and B.Dolan. "[A Diversity-Promoting Objective Function for Neural Conversation Models](https://arxiv.org/pdf/1510.03055.pdf)". NAACL2016.
